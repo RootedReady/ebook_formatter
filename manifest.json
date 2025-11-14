@@ -2,6 +2,7 @@
   "app": "Rooted Ready eBook Formatter",
   "version": "1.0.0",
   "python_version": "3.12",
+  "icon_url": "https://github.com/RootedReady/ebook_formatter/raw/refs/heads/main/assets/app_icon.ico",
   "dependencies": [
     {
       "name": "python-docx",
@@ -25,7 +26,7 @@
       "version": "4.4.4",
       "required": true,
       "wheel": "reportlab-4.4.4-py3-none-any.whl",
-      "url": "https://github.com/RootedReady/ebook_formatter/raw/refs/heads/main/packages/reportlab/reportlab-4.4.4-py3-none-any.whl",
+      "url": "https://github.com/RootedReady/ebook_formatter/raw/refs/heads/main/packages/reportlab/reportlab-4.4.4-py3-none-any.whl"
     },
     {
       "name": "pillow",
@@ -37,7 +38,7 @@
       "url_x64": "https://github.com/RootedReady/ebook_formatter/raw/refs/heads/main/packages/pillow/pillow-12.0.0-cp312-cp312-win_amd64.whl",
       "url_x86": "https://github.com/RootedReady/ebook_formatter/raw/refs/heads/main/packages/pillow/pillow-12.0.0-cp312-cp312-win32.whl"
     },
-	{
+    {
       "name": "pymupdf",
       "version": "1.26.6",
       "required": true,
