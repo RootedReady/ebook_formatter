@@ -29,6 +29,13 @@
 	"url": "https://github.com/RootedReady/ebook_formatter/raw/refs/heads/main/packages/reportlab/reportlab-4.4.4-py3-none-any.whl",
 	},
 	{
+	"name": "pathvalidate",
+	"version": "3.3.1",
+	"required": true,
+	"wheel": "pathvalidate-3.3.1-py3-none-any.whl",
+	"url": "https://github.com/RootedReady/ebook_formatter/raw/refs/heads/main/packages/pathvalidate/pathvalidate-3.3.1-py3-none-any.whl",
+	},	
+	{
 	"name": "pillow",
 	"version": "12.0.0",
 	"required": true,
